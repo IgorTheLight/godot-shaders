@@ -1,3 +1,5 @@
+**/!\ WARNING:** This project is in the process of being ported to Godot 4. If you want get a copy of the working project for Godot 3, [head to the last Godot 3 release](https://github.com/gdquest-demos/godot-shaders/releases/tag/1.0.0). If you want to help, see [Tracker and guide: Update to Godot 4.3](https://github.com/gdquest-demos/godot-shaders/issues/53).
+
 # Godot Shaders
 
 ![project banner](./img/banner-shader-secrets.png)
@@ -74,10 +76,3 @@ If you want to contribute to the project, for instance by fixing a bug or adding
 ## Credits
 
 Stylized fire adapted from a Unity tutorial by [@minionsart](https://twitter.com/minionsart/).
-
-## Licenses
-
-This project is dual-licensed:
-
-- The source code is available under the MIT license.
-- Art assets (images, audio files) are [CC-By 4.0](https://creativecommons.org/licenses/by/4.0/). You can attribute them to `GDQuest and contributors (https://www.gdquest.com/)`.
